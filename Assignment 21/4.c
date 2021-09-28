@@ -1,4 +1,4 @@
-//Accept character from user and check whether it is small case or not(a-z)
+//Accept character from user and check whether it is small case or not(a-z) 
 
 //Input : f		Output : It is small case
 //Input : F		Output : It is not small case

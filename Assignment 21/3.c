@@ -1,4 +1,4 @@
-//Accept character from user and check whether it is digit or not(0-9).
+//Accept character from user and check whether it is digit or not(0-9)
 
 //Input : 8		Output : It is digit
 //Input : F		Output : It is not digit

@@ -1,4 +1,4 @@
-//Write a program which accept string from user and check whether it contains vowels in it or not.
+//Write a program which accept string from user and check whether it contains vowels in it or not
 
 //Input : "marvellous"		Output : TRUE
 //Input : "xyz"				Output : FALSE
